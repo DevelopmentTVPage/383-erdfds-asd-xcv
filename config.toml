@@ -1,0 +1,11 @@
+#Hugo configuration
+title = "3rdsf"
+baseURL = "https:\/\/erdfds.asd.xcv"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758823"
+subfolder = ""
